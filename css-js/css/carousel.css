@@ -1,0 +1,25 @@
+.carousel1{
+    position: relative;
+    width: 100%;
+    max-width: 550px;
+    margin: auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.swiper-slide1{
+    width: 100%;
+    margin: auto;
+}
+.promo{
+    width: 100%;   
+}
+.swiper-button-prev, .swiper-button-next{
+    color: #e4de42;
+}
+
+@media screen and (max-width: 560px) {
+    .carousel1{
+        max-width: 95%;
+
+    }
+}

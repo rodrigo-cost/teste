@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css');
+@import url('navbar.css');
+@import url('carousel.css');
+@import url('categorias.css');
+@import url('produto-estilos.css');
+@import url('tela-produto.css');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial,sans-serif;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background: url('../img/bg.jpg');
+    background-size: cover;
+    overflow-x: hidden;
+    color: aliceblue;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+
+/* Estilos da Categoria */
+
